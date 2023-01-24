@@ -51,7 +51,7 @@ st.text("") # Espacio
 col4, col5, col6 = st.columns((2.5,0.5,6))
 with col4:
     st.markdown("**enero 2020 - junio 2022**")
-    ee = Image.open('ee.jpg')
+    ee = Image.open('ee.jpeg')
     st.image(ee)
 with col5:
     st.write('')
