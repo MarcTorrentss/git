@@ -167,9 +167,9 @@ with col14:
 with col15:
     st.markdown("## 🗣️Languages")
     st.markdown("#### Catalan")
-    st.markdown("Nativo")
+    st.markdown("Native")
     st.markdown("#### Spanish")
-    st.markdown("Nativo")
+    st.markdown("Native")
     st.markdown("#### English")
     st.markdown("B2")
 
