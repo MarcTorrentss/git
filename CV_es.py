@@ -14,8 +14,8 @@ from unicodedata import name
 st.set_page_config(page_title="CV", layout="centered", page_icon="📋")
 
 #--------------------------EMPIEZA NUESTRA APP------------------------------------------
-st.markdown("<h1 style='text-align: center; color: white;'>Marc Torrents</h1>", unsafe_allow_html=True)
-st.markdown("<h2 style='text-align: center; color: white;'>Currículum Vitae</h2>", unsafe_allow_html=True)
+st.markdown("<h1 style='text-align: center; '>Marc Torrents</h1>", unsafe_allow_html=True)
+st.markdown("<h2 style='text-align: center; '>Currículum Vitae</h2>", unsafe_allow_html=True)
 st.text("") # Espacio
 me = Image.open('me.jpeg')
 col1, col2, col3 = st.columns(3)
