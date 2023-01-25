@@ -89,7 +89,7 @@ st.text("") # Espacio
 
 col10, col11, col12 = st.columns((2.5,0.5,6))
 with col10:
-    st.markdown("**enero 2020 - junio 2022**")
+    st.markdown("**marzo 2018 - julio 2019**")
     ra = Image.open('ra.png')
     st.image(ra)
 with col11:
