@@ -38,6 +38,7 @@ st.text("") # Espacio
 st.markdown("## 📍 Contact Information")
 st.markdown("✉️ mtorrentsdomenech@gmail.com")
 st.markdown("🔗[Linkedin](https://www.linkedin.com/in/mtorrents/)")
+st.markdown("🔗[Github](https://github.com/MarcTorrentss)")
 
 st.text("") # Espacio
 st.text("") # Espacio
