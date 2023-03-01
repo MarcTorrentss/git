@@ -59,7 +59,7 @@ with col5:
 with col6:
     st.markdown("### Junior Data Engineer")
     st.markdown("##### [NTT Data](https://es.nttdata.com/) en Barcelona")
-    st.markdown("Consultoria dedicada a la gestión y contratación energética, ingenieria energética y procesos de certificaciones energéticas.")
+    st.markdown("Multinacional especializada en servicios de consultoría tecnológica.")
     with st.expander("Funciones realizadas"):
             st.markdown('''Proyectos y servicios de canales digitales.
 * Data modeling
