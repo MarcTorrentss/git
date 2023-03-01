@@ -51,12 +51,32 @@ st.text("") # Espacio
 
 col4, col5, col6 = st.columns((2.5,0.5,6))
 with col4:
-    st.markdown("**enero 2021 - junio 2022**")
-    ee = Image.open('ee.jpeg')
-    st.image(ee)
+    st.markdown("**febrero 2023 - Actualidad**")
+    ntt = Image.open('ntt data.png')
+    st.image(ntt)
 with col5:
     st.write('')
 with col6:
+    st.markdown("### Junior Data Engineer")
+    st.markdown("##### [NTT Data](https://es.nttdata.com/) en Barcelona")
+    st.markdown("Consultoria dedicada a la gestión y contratación energética, ingenieria energética y procesos de certificaciones energéticas.")
+    with st.expander("Funciones realizadas"):
+            st.markdown('''Proyectos y servicios de canales digitales.
+* Data modeling
+* Data labeling
+* Data testing
+* Creación de dashboards.''')
+
+st.text("") # Espacio
+
+col7, col8, col9 = st.columns((2.5,0.5,6))
+with col7:
+    st.markdown("**enero 2021 - junio 2022**")
+    ee = Image.open('ee.jpeg')
+    st.image(ee)
+with col8:
+    st.write('')
+with col9:
     st.markdown("### Energy Manager")
     st.markdown("##### [Engipro Energy](http://www.engipro-energy.com/es/) en Mataró, Barcelona alrededores")
     st.markdown("Consultoria dedicada a la gestión y contratación energética, ingenieria energética y procesos de certificaciones energéticas.")
@@ -69,14 +89,14 @@ with col6:
 
 st.text("") # Espacio
 
-col7, col8, col9 = st.columns((2.5,0.5,6))
-with col7:
+col10, col11, col12 = st.columns((2.5,0.5,6))
+with col10:
     st.markdown("**septiembre 2019 - enero 2021**")
     g = Image.open('g.png')
     st.image(g)
-with col8:
+with col11:
     st.write('')
-with col9:
+with col12:
     st.markdown("### Energy Manager")
     st.markdown("##### [Greenflex](https://www.greenflex.com/es/) en Barcelona")
     st.markdown("Eficiencia y gestión energética en la sede española de Barcelona en una empresa francesa del grupo Total.")
@@ -88,14 +108,14 @@ with col9:
 
 st.text("") # Espacio
 
-col10, col11, col12 = st.columns((2.5,0.5,6))
-with col10:
+col13, col14, col15 = st.columns((2.5,0.5,6))
+with col13:
     st.markdown("**marzo 2018 - julio 2019**")
     ra = Image.open('ra.png')
     st.image(ra)
-with col11:
+with col14:
     st.write('')
-with col12:
+with col15:
     st.markdown("### Intern Engineering")
     st.markdown("##### [Rockwell Automation](https://www.rockwellautomation.com/es-es.html) en Barcelona")
     st.markdown("Interno en el departamento de postventa CSM en la sede española de Barcelona de una de las empresa multinacional líder en la automatización industrial.")
@@ -109,8 +129,8 @@ st.text("") # Espacio
 
 #-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-col13, col14, col15 = st.columns((4,2,4))
-with col13:
+col16, col17, col18 = st.columns((4,2,4))
+with col16:
     st.markdown("## 🎯Competencias")
     st.markdown("#### Big Data y Data Science")
     with st.expander("Lenguages de programación"):
@@ -163,9 +183,9 @@ with col13:
 * OneNote
 * Skype
 * Teams''')
-with col14:
+with col17:
     st.write('')
-with col15:
+with col18:
     st.markdown("## 🗣️Idiomas")
     st.markdown("#### Catalan")
     st.markdown("Nativo")
@@ -181,14 +201,14 @@ st.text("") # Espacio
 
 st.markdown("## 📚 Educación")
 
-col16, col17, col18 = st.columns((2.5,0.5,6))
-with col16:
+col19, col20, col21 = st.columns((2.5,0.5,6))
+with col19:
     st.markdown("**noviembre 2022 - actualidad**")
     uh = Image.open('uh.jpg')
     st.image(uh)
-with col17:
+with col20:
     st.write('')
-with col18:
+with col21:
     st.markdown("### Bootcamp Data Analytics")
     st.markdown("##### [Upgrade Hub](https://www.upgrade-hub.com/landing-data/?utm_source=google-search&utm_medium=cpc&utm_campaign=Search_ES_Todos_Marca_GA-041&pkw=Upgrade%20hub&utm_term=Upgrade%20hub&matchtype=b&device=c&utm_content=534085417910&placement=&network=g&gclid=Cj0KCQiAm5ycBhCXARIsAPldzoVaEphzsWy90kGmWK11hp7W3iY0OaXNAAt-luc41ksLZpxc8RpK98UaAnMdEALw_wcB)")
     with st.expander("Temario del curso"):
@@ -207,14 +227,14 @@ with col18:
 
 st.text("") # Espacio
 
-col19, col20, col21 = st.columns((2.5,0.5,6))
-with col19:
+col22, col23, col24 = st.columns((2.5,0.5,6))
+with col22:
     st.markdown("**noviembre 2021 - octubre 2022**")
     ub = Image.open('ub.jpg')
     st.image(ub)
-with col20:
+with col23:
     st.write('')
-with col21:
+with col24:
     st.markdown("### Máster en Big Data y Data Science")
     st.markdown("##### [IL3 - Universidad de Barcelona](https://www.il3.ub.edu/master-big-data-science)")
     with st.expander("Temario del curso"):
@@ -253,14 +273,14 @@ with col21:
 
 st.text("") # Espacio
 
-col22, col23, col24 = st.columns((2.5,0.5,6))
-with col22:
+col25, col26, col27 = st.columns((2.5,0.5,6))
+with col25:
     st.markdown("**septiembre 2014 - junio 2019**")
     tc = Image.open('tc.png')
     st.image(tc)
-with col23:
+with col26:
     st.write('')
-with col24:
+with col27:
     st.markdown("### Grado en Ingeniería Electrónica Industrial y Automática")
     st.markdown("##### [TecnoCampus, Universitat Pompeu Fabra](https://www.tecnocampus.cat/es/grau/grau-en-enginyeria-electronica-industrial-i-automatica)")
 
