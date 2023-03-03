@@ -49,6 +49,26 @@ st.markdown("## 👨🏻‍💼 Work Experience")
 
 st.text("") # Espacio
 
+col30, col31, col32 = st.columns((2.5,0.5,6))
+with col30:
+    st.markdown("**february 2023 - Present**")
+    ntt = Image.open('ntt data.png')
+    st.image(ntt)
+with col31:
+    st.write('')
+with col32:
+    st.markdown("### Junior Data Engineer")
+    st.markdown("##### [NTT Data](https://es.nttdata.com/) in Barcelona")
+    st.markdown("Multinational specialized in technology consulting services.")
+    with st.expander("Performed functions"):
+            st.markdown('''Digital channel projects and services.
+* Data modeling
+* Data labeling
+* Data testing
+* Dashboard creation.''')
+
+st.text("") # Espacio
+
 col4, col5, col6 = st.columns((2.5,0.5,6))
 with col4:
     st.markdown("**January 2021 - June 2022**")
