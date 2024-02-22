@@ -57,15 +57,15 @@ with col30:
 with col31:
     st.write('')
 with col32:
-    st.markdown("### Junior Data Engineer")
+    st.markdown("### Junior Data Analyst")
     st.markdown("##### [NTT Data](https://es.nttdata.com/) in Barcelona")
     st.markdown("Multinational specialized in technology consulting services.")
+    st.markdown("In NTT, I am part of the ExO (Experience Optimization) department where digital channel projects and services are led.")
     with st.expander("Performed functions"):
-            st.markdown('''Digital channel projects and services.
-* Data modeling
-* Data labeling
-* Data testing
-* Dashboard creation.''')
+            st.markdown('''* Implementation of analytics in APP and WEB and QA.
+* ETL process on the data.
+* Creation of dashboards in Adobe Analytics / Google Analytics or Power BI reportings of different tagging flows.
+* Control and prediction of license consumption of analytics tools.''')
 
 st.text("") # Espacio
 
