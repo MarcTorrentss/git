@@ -57,7 +57,7 @@ with col4:
 with col5:
     st.write('')
 with col6:
-    st.markdown("### Junior Data Engineer")
+    st.markdown("### Junior Data Analyst")
     st.markdown("##### [NTT Data](https://es.nttdata.com/) en Barcelona")
     st.markdown("Multinacional especializada en servicios de consultoría tecnológica.")
     st.markdown("Dentro de NTT formo parte del departamento de ExO (Experience Optimitzation) en el que se lideran proyectos y servicios de canales digitales.")
