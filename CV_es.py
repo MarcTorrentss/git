@@ -147,14 +147,13 @@ with col16:
 * Oracle SQL Developer
 * Dbeaver
 * pgAdmin''')
-    with st.expander("Software de analítica"):
+    with st.expander("Software de analítica / visualización"):
         st.markdown('''* Tealium
 * Adobe Analytics
 * Google Analytics
 * GTM4
-* Locker Studio''')
-    with st.expander("Software de visualización"):
-        st.markdown('''* PowerBI
+* PowerBI
+* Locker Studio
 * Tableau
 * Qlik''')
     st.markdown("#### Automatización Industrial")
