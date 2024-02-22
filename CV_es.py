@@ -65,7 +65,7 @@ with col6:
             st.markdown('''* Implementación de analítica en APP y WEB y qa.
 * Procesos ETL sobre los datos.
 * Creación de dashboards en Adobe Analytics / Google Analytics o reportings Power BI de los diferentes flujos de etiquetado.
-* Modelaje y predicción del consumo de licencias de las herramientas de analítica.''')
+* Control y predicción del consumo de licencias de las herramientas de analítica.''')
 
 st.text("") # Espacio
 
