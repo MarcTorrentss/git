@@ -60,12 +60,12 @@ with col6:
     st.markdown("### Junior Data Engineer")
     st.markdown("##### [NTT Data](https://es.nttdata.com/) en Barcelona")
     st.markdown("Multinacional especializada en servicios de consultoría tecnológica.")
+    st.markdown("Dentro de NTT formo parte del departamento de ExO (Experience Optimitzation) en el que se lideran proyectos y servicios de canales digitales.")
     with st.expander("Funciones realizadas"):
-            st.markdown('''Proyectos y servicios de canales digitales.
-* Data modeling
-* Data labeling
-* Data testing
-* Creación de dashboards.''')
+            st.markdown('''* Implementación de analítica en APP y WEB y qa.
+* Procesos ETL sobre los datos.
+* Creación de dashboards en Adobe Analytics / Google Analytics o reporting Power BI de los diferentes flujos de etiquetado.
+* Modelaje y predicción del consumo de licencias de las herramientas de analítica.''')
 
 st.text("") # Espacio
 
@@ -147,6 +147,11 @@ with col16:
 * Oracle SQL Developer
 * Dbeaver
 * pgAdmin''')
+    with st.expander("Software de analítica"):
+        st.markdown('''* Tealium
+* Adobe Analytics
+* Google Analytics
+* GTM4''')
     with st.expander("Software de visualización"):
         st.markdown('''* PowerBI
 * Tableau
