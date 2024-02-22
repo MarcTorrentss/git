@@ -64,7 +64,7 @@ with col32:
     with st.expander("Performed functions"):
             st.markdown('''* Implementation of analytics in APP and WEB and QA.
 * ETL process on the data.
-* Creation of dashboards in Adobe Analytics / Google Analytics or Power BI / Locker Studio reportings of different tagging flows.
+* Creation of dashboards in Adobe Analytics / Google Analytics or Power BI / Loocker Studio reportings of different tagging flows.
 * Control and prediction of license consumption of analytics tools.''')
 
 st.text("") # Espacio
@@ -153,7 +153,7 @@ with col13:
 * Google Analytics
 * GTM4
 * PowerBI
-* Locker Studio
+* Loocker Studio
 * Tableau
 * Qlik''')
     st.markdown("#### Industrial Automation")
